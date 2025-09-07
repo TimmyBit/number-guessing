@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+}
+
+header {
+    text-align: center;
+}
+
+#guess {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
